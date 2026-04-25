@@ -1,4 +1,4 @@
-readme_content = """# 🎵 Sonora - Music Player App
+
 
 
 O **Sonora** é um aplicativo reprodutor de música para Android focado em oferecer uma experiência visual altamente estética e fluida. Desenvolvido inteiramente utilizando **Jetpack Compose** e a linguagem **Kotlin**, o projeto demonstra a criação de uma interface moderna de áudio aliada a animações imersivas e gerenciamento de estado global.
