@@ -37,6 +37,4 @@ Este projeto foi construído utilizando as melhores práticas do desenvolvimento
 
 ---
 
-## 🚀 Como Executar o Projeto
 
-1. **Clone este repositório:**
